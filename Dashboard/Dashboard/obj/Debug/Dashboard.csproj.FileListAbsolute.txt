@@ -1,0 +1,126 @@
+C:\Users\User\Desktop\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Desktop\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Desktop\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Desktop\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Dashboard\Dashboard\obj\Debug\Dashboard.Temperature_Conversion.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Desktop\Final\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.IP4.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto649.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.LottoMax.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyEx.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.SimpleCalc.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.TempConv.resources
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Documents\AEC\2 SEMESTER\Object oriented programming (Mihai Maftei)\C# Project\Final\Final\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
